@@ -28,11 +28,11 @@
 
 ### Languages
 <div align="center">  
-<a href="" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="c++" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="c++" height="50" /></a>  
 </div>
 
 </td><td valign="top">
