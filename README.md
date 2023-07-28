@@ -28,16 +28,11 @@
 
 ### Languages
 <div align="center">  
-<!-- kotlin icon -->
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" alt="Kotlin" height="50" /></a>
-<!-- java icon -->
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Java" height="50" />
-<!-- Dart icon -->
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Dart" height="50" /></a>
-<!-- C++ icon -->
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="C++" height="50" /></a>
-<!-- mySql icon -->
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="c++" height="50" /></a>  
 </div>
 
 </td><td valign="top">
@@ -45,13 +40,13 @@
 ### Tools  
 <div align= "center">
 <!-- android studio icon -->
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Flutter" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind" height="50" /></a>
 <!-- github icon -->
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <!-- firebase icon -->
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
  <!-- matrial ui icon -->
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /> 
 <!-- c++ icon -->
 </div>
 
