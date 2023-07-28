@@ -56,7 +56,3 @@
   </div>
 <br>  
 <br>  
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif"  width="240" height="240"/>
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="240" height="240" />
-<div/>
