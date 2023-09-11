@@ -38,7 +38,7 @@
 <div align= "center">
 <!-- android studio icon -->
 <a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind" height="50" /></a>
-<!-- github icon -->
+<!-- GitHub icon -->
 <a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   
 <a href="" target="_blank"><img style="margin: 10px" src="https://cdn.discordapp.com/attachments/853372382647681025/1134616708066316440/2048px-Visual_Studio_Code_1.png" alt="Git" height="50" /></a>
