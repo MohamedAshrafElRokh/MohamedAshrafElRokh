@@ -2,7 +2,7 @@
 <h2 align="left" style="font-size: 2rem;">
   Hi there 👋! I'm Mohamed Ashraf  Kamal
     <a>
-        <img align="right" src="https://kounter.tk/badge/YoussefmSaber.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
+        <img align="right" src="https://kounter.tk/badge/MohamedAshrafElRokh.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
   </a>
     <a href="https://github.com/MohamedAshrafElRokh" target="_blank">
         <img align="right" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
