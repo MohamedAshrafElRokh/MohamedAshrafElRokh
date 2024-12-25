@@ -16,7 +16,7 @@
 
 <h4 align="left">I'm an IT Specialist at National Bank of Egypt</h4>
 <br><br>
-<p align="left">🔭 I’m currently working on <a href="https://github.com/MohamedAshrafElRokh/BookRent">BookRent</a><br><br><br>🌱 I’m currently learning NodeJs<br><br><br>⚡ Fun fact: I like cats and birds 🐈🐦<br><br><br> 
+<p align="left"><br>🌱 I’m currently Studying CyberSecurity<br><br><br>⚡ Fun fact: I like cats and birds 🐈🐦<br><br><br> 
 <br/>
 
 ## My Skill Set  
