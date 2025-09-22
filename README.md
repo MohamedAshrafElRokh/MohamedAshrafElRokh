@@ -62,7 +62,7 @@
 
 ## 🌍 Connect With Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/mohamed-ashraf](https://www.linkedin.com/in/mohamedashrafkamal/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ashraf](https://www.linkedin.com/in/mohamedashrafkamal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedashraf@example.com">
