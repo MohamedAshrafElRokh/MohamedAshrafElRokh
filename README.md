@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snort-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
 </p>
+
 
 ### 🧰 Version Control & Collaboration
 <p align="left">
