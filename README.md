@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 <h3 align="center">💻 Junior IT Specialist | Cybersecurity Enthusiast 🔐</h3>
 
@@ -6,9 +8,9 @@
 ## 🚀 About Me
 - 🎓 Computer Science Graduate from **Suez Canal University**  
 - 🏦 Currently working at **National Bank of Egypt (NBE)**  
-- 🔭 Building projects in **Cybersecurity, SOC, and Penetration Testing**  
+- 🔭 Working on **Cybersecurity, SOC, and Penetration Testing** projects  
 - 📚 Certified in **OWASP Top 10, Ethical Hacking (Cisco), Infrastructure & Security**  
-- 🌱 Continuously learning and improving my skills in **Red & Blue Team operations**  
+- 🌱 Continuously learning **Red & Blue Team operations**  
 
 ---
 
@@ -23,20 +25,11 @@
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <!-- Ubuntu (Orange logo) -->
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
-  
-  <!-- macOS (White Apple logo) -->
-  <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-2-1.png" alt="macOS" width="40" height="40" style="background-color:#ffffff; border-radius:50%; padding:5px;"/>
-  
-  <!-- Windows -->
+  <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-2-1.png" alt="macOS" width="40" height="40" style="filter: invert(1); border-radius:50%; padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  
-  <!-- Kali Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
-
-
 
 ### 🛡️ Cybersecurity Tools
 <p align="left">
@@ -48,21 +41,18 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
 </p>
 
-
 ### 🧰 Version Control & Collaboration
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAshrafElRokh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshrafElRokh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAshrafElRokh&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshrafElRokh&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
