@@ -21,14 +21,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-
-### ⚙️ Platforms & OS
+### 🖥️ Operating Systems
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
+  <!-- Ubuntu (Orange logo) -->
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
+  
+  <!-- macOS (White Apple logo) -->
+  <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-2-1.png" alt="macOS" width="40" height="40" style="background-color:#fffff; border-radius:50%; padding:5px;"/>
+  
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  
+  <!-- Kali Linux -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
+
+
 
 ### 🛡️ Cybersecurity Tools
 <p align="left">
