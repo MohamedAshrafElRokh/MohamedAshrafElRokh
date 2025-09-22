@@ -27,7 +27,7 @@
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
   
   <!-- macOS (White Apple logo) -->
-  <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-2-1.png" alt="macOS" width="40" height="40" style="background-color:#fffff; border-radius:50%; padding:5px;"/>
+  <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-2-1.png" alt="macOS" width="40" height="40" style="background-color:#ffffff; border-radius:50%; padding:5px;"/>
   
   <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
@@ -52,7 +52,6 @@
 ### 🧰 Version Control & Collaboration
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="color:#ffff; width="40" height="40"/>
 </p>
 
 ---
