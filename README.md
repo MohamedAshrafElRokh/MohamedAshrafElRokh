@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
-<h3 align="center">💻 Junior IT Specialist | Cybersecurity Enthusiast 🔐</h3>
+<h3 align="center">💻 Junior IT Specialist | SOC Analyst  🔐</h3>
 
 ---
 
